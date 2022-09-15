@@ -1,0 +1,21 @@
+SOLID PRINCIPLES
+
+1 - Single Responsibility Principle	
+
+2 - Open-Closed Principle	
+
+3 - Liskov Substitution Principle
+
+TANIM: Üst sınıfın nesneleri, programı bozmadan alt sınıfınkiler ile değiştirilebilmelidir. 
+
+Varsayalım "S", "T" 'nin bir alt tipi olsun. O zaman "T" tipindeki nesneler, "S" tipindeki nesneler ile değiştirilebilmelidir. 
+
+Motorlu araçlar üzerinden örnek verilebilir. 
+
+4 - Interface Segregation Principle	
+
+Arayüzdeki alakasız methodlar implement eden sınıflarda override edilmemeli
+
+5 - Dependency Inversion Principle	
+
+Alt sınıflarda yapılan değişiklikler üst sınıfı etkilememeli
